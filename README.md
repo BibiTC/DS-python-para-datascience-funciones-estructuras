@@ -4,6 +4,11 @@ Este repositorio corresponde al entrenamiento de Python: Trabajar con funciones,
 Desafío: hora de practicar
  Siguiente pregunta
 
+Link de Google Colab con el desarrollo de los ejercicios relacionados abajo:
+
+[Google Colab]
+
+
 Vamos a practicar lo que hemos aprendido hasta ahora resolviendo los problemas propuestos en código.
 
 Calentamiento
